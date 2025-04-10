@@ -1,0 +1,3 @@
+G:/Sonya/ACD2term/laba1/1way/cmake-build-debug/CMakeFiles/1way.dir
+G:/Sonya/ACD2term/laba1/1way/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Sonya/ACD2term/laba1/1way/cmake-build-debug/CMakeFiles/rebuild_cache.dir
